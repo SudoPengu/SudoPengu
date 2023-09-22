@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SudoPengu</h1>
-<h3 align="center">A Passionate Geek ( Developer / Programmer / Open Source Enthusiast )</h3>
+<h1 align="left">Hi 👋, I'm SudoPengu</h1>
+<h3 align="left">A Passionate Geek ( Developer / Programmer / Open Source Enthusiast )</h3>
 
 - 🌱 I’m currently learning **Astro, Tailwind CSS, Typescript**
 
