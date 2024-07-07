@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Astro, Tailwind CSS, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://www.imcjg.me/](https://www.imcjg.me/)
+- 👨‍💻 All of my projects are available at [https://www.imcjg.me/](https://portfolio-latest-beta.vercel.app/projects)
 
 - 📫 How to reach me **gamoscj123@gmail.com**
 
