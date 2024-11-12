@@ -1,9 +1,5 @@
 <h1 align="left">Hi 👋, I'm SudoPengu</h1>
-<h3 align="left">A Passionate Geek ( Developer / Programmer / Open Source Enthusiast )</h3>
-
-- 🌱 I’m currently learning **Astro, Tailwind CSS, Typescript**
-
-- 👨‍💻 All of my projects are available at [https://www.imcjg.me/](https://portfolio-latest-beta.vercel.app)
+<h3 align="left">Developer / Programmer / Open Source Enthusiast</h3>
 
 - 📫 How to reach me **gamoscj123@gmail.com**
 
